@@ -76,11 +76,3 @@ This project is licensed under the MIT license . See the LICENSE file for detail
 - Run : `npm run dev`
 - It will open your browser at  `http://localhost:5175`
 
-# Contributors
-
-- [Mohammed Mubarak](https://github.com/Mubarak21B00260y)
-
-# Acknowledgments
-
-Special thanks to the developers and maintainers of the technologies used in this project. Their hard work and dedication have made this project possible.
-Another appreciation to Ali Bouali, from whom this project drew inspiration.
